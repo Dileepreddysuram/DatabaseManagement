@@ -1,0 +1,7 @@
+"cartid","userid","productid","price","quantity","name","mobile","email","address1","city","state","country"
+"1","12","300","30","2","Akhil gade","9701974537","akhil@gmail.com","1718 Fredonia","Peoria","Illinois","United States of America"
+"1","12","310","67","3","Akhil gade","9701974537","akhil@gmail.com","1718 Fredonia","Peoria","Illinois","United States of America"
+"1","12","346","60","1","Akhil gade","9701974537","akhil@gmail.com","1718 Fredonia","Peoria","Illinois","United States of America"
+"2","13","450","59","3","Sindhu thadishetti","9876543210","sindhu@gmail.com","1231 Melrose","Los Angeles","California","United States of America"
+"2","13","516","30","4","Sindhu thadishetti","9876543210","sindhu@gmail.com","1231 Melrose","Los Angeles","California","United States of America"
+"2","13","560","85","1","Sindhu thadishetti","9876543210","sindhu@gmail.com","1231 Melrose","Los Angeles","California","United States of America"
